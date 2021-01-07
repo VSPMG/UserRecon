@@ -1,6 +1,6 @@
 # UserRecon v2.3-MOD
 ## First coded by @linux_choice
-## Modded by @AbirHasan2005
+## Modded by @AbirHasan2005 died yesterday 2021-6-januaury
 ## Thanks to Unknown Hacker for reporting minor bugs!
 ## Twitter: https://twitter.com/AbirHasan2005
 ## Instagram: https://instagram.com/AbirHasan2005
